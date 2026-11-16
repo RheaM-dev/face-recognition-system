@@ -2,11 +2,6 @@
 
 A menu-driven Python project that registers people with their face, recognises them through the webcam, and marks their attendance in a database.
 
-**Name:RHEA MADHIKAR
-**Roll number:2025BCS0215
-
----
-
 ## What this project does
 
 I built this to see how attendance could be taken automatically, without anyone writing names on paper. The program can:
