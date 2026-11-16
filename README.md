@@ -151,4 +151,6 @@ You need Python 3.10 or newer and a webcam.
 
 ---
 
+![Demo](assets/demo.png)
+
 *Face photos are personal data. This project stores them only on the local computer, and they should be deleted when no longer needed.*
