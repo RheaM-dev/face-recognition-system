@@ -1,5 +1,7 @@
 # Face Recognition Attendance System
 
+![Demo](assets/demo.png)
+
 A menu-driven Python project that registers people with their face, recognises them through the webcam, and marks their attendance in a database.
 
 ## What this project does
@@ -150,7 +152,5 @@ You need Python 3.10 or newer and a webcam.
 - Registration by uploading photos as well as using the webcam
 
 ---
-
-![Demo](assets/demo.png)
 
 *Face photos are personal data. This project stores them only on the local computer, and they should be deleted when no longer needed.*
